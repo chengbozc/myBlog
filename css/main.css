@@ -2449,14 +2449,6 @@ ul.breadcrumb li + li:last-child {
   border-bottom-color: #111;
   color: #111;
 }
-.gt-header a,
-.gt-comments a,
-.gt-popup a {
-  border-bottom: none;
-}
-.gt-container .gt-popup .gt-action.is--active::before {
-  top: 0.7em;
-}
 .use-motion .animated {
   animation-fill-mode: none;
   visibility: inherit;
@@ -2713,7 +2705,7 @@ hr {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #ff3065;
+  background: #fb9881;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
